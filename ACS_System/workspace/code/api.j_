@@ -1,0 +1,3 @@
+// API endpoints
+app.get('/users', getUsers);
+app.post('/users', createUser);

@@ -1,0 +1,12 @@
+2025-12-02 18:29:41 | INFO     | storage.user_repository:_load_users:22 | Загрузка пользователей из users.json
+2025-12-02 18:29:41 | INFO     | storage.user_repository:_load_users:40 | Загружено 7 пользователей
+2025-12-02 18:29:41 | INFO     | __main__:run:124 | Запуск системы управления доступом
+2025-12-02 18:29:41 | INFO     | __main__:initialize_workspace:63 | Рабочая директория инициализирована: C:\Users\KIRUA\pythonProject\ACS_System\workspace
+2025-12-02 18:30:14 | WARNING  | core.auth:authenticate:28 | Неверный пароль для пользователя: manager
+2025-12-02 18:30:25 | WARNING  | core.auth:authenticate:28 | Неверный пароль для пользователя: manager
+2025-12-02 18:30:31 | INFO     | core.auth:authenticate:31 | Успешная аутентификация: admin
+2025-12-02 18:30:36 | ERROR    | __main__:main_loop:176 | Ошибка в основном цикле: 'AccessControlSystem' object has no attribute 'list_files'
+2025-12-02 18:30:42 | INFO     | __main__:run:142 | Завершение работы системы
+2025-12-02 18:48:48 | INFO     | storage.user_repository:_load_users:22 | Загрузка пользователей из users.json
+2025-12-02 18:48:48 | INFO     | storage.user_repository:_load_users:40 | Загружено 7 пользователей
+2025-12-02 18:48:57 | INFO     | core.auth:authenticate:31 | Успешная аутентификация: manager

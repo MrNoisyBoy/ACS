@@ -1,0 +1,10 @@
+// Основной JavaScript файл
+document.addEventListener('DOMContentLoaded', function() {
+    console.log('Страница загружена');
+
+    // Динамическое обновление даты
+    const dateElement = document.getElementById('current-date');
+    if (dateElement) {
+        dateElement.textContent = new Date().toLocaleDateString();
+    }
+});

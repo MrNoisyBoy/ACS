@@ -1,0 +1,12 @@
+{
+  "internal": [
+    "https://wiki.company.com",
+    "https://crm.company.com",
+    "https://hr.company.com"
+  ],
+  "external": [
+    "https://trello.com",
+    "https://slack.com",
+    "https://github.com"
+  ]
+}

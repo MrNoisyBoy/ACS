@@ -1,0 +1,3 @@
+Контакты:
+- Техподдержка: support@company.com
+- Администрация: admin@company.com

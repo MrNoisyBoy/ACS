@@ -1,0 +1,9 @@
+system:
+  workspace_root: "./workspace"
+  log_level: "INFO"
+  log_file: "app.log"
+
+roles:
+  ADMIN: ["READ", "WRITE", "DELETE", "LIST"]
+  EDITOR: ["READ", "WRITE", "LIST"]
+  VIEWER: ["READ", "LIST"]

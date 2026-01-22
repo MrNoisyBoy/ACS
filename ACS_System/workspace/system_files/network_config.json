@@ -1,0 +1,12 @@
+{
+  "servers": [
+    "server1",
+    "server2",
+    "server3"
+  ],
+  "ip_range": "192.168.1.0/24",
+  "dns_servers": [
+    "8.8.8.8",
+    "8.8.4.4"
+  ]
+}

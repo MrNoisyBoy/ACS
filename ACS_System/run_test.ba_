@@ -1,0 +1,19 @@
+@echo off
+chcp 65001 > nul
+cls
+
+echo ========================================
+echo   ТЕСТ СИСТЕМЫ ACS
+echo ========================================
+echo.
+
+echo Убедитесь что файлы настроены:
+echo 1. config.yaml
+echo 2. users.json
+echo 3. main.py
+echo.
+
+python main.py
+
+echo.
+pause
